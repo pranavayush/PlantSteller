@@ -25,9 +25,5 @@ https://plantsteller.vercel.app/
 ## Developed By
 
 **Pranav Ayush**
-Co-Founder & Lead Developer
-
-**Vinayak Raj**
-Co-Founder & Business Manager
 
 🌱 Bring Life To Your Space
